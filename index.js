@@ -1,5 +1,6 @@
 /**
  * Entry Script
+ * Woop!
  */
 
 if (process.env.NODE_ENV === 'production') {
